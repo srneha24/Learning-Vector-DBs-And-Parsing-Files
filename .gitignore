@@ -1,0 +1,18 @@
+# ENVIRONMENT
+.env
+env/
+
+# CACHE
+__pycache__/
+
+# BINARY FILES
+*.model
+
+# LOG
+*.log
+
+# CHROMA
+chroma/
+
+# NLTK
+nltk/
