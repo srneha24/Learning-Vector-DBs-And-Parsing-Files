@@ -4,6 +4,7 @@ env/
 
 # CACHE
 __pycache__/
+.DS_Store
 
 # BINARY FILES
 *.model
