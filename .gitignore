@@ -20,3 +20,6 @@ nltk/
 
 # SAMPLES
 samples/
+
+# NDJSON FILES
+*.ndjson
