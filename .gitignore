@@ -23,3 +23,6 @@ samples/
 
 # NDJSON FILES
 *.ndjson
+
+# PDF FILES
+*.pdf
