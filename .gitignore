@@ -26,3 +26,7 @@ samples/
 
 # PDF FILES
 *.pdf
+
+# DOC FILES
+*.doc
+*.docx
